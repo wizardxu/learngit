@@ -13,3 +13,5 @@ for i in test:
 	Creating a new branch is quick.
 
 	Creating a a new branch is quick and simple.
+	
+	get new feature1
